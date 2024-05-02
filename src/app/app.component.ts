@@ -15,7 +15,7 @@ export class AppComponent {
   apiURL : string;
 
   constructor(private http: HttpClient) {
-  this.apiURL = 'https://unfair-simone-esthe.koyeb.app';
+  this.apiURL = 'https://api-1-usxl.onrender.com';
   this.READ_tarefas();
   }
 
