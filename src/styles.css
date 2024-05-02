@@ -1,6 +1,6 @@
 body {
-    font-family: cursive;
-    background-color: rgb(168, 168, 168);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(242, 240, 230);
    }
    .btn-wrapper {
     /* flexbox */
@@ -10,8 +10,8 @@ body {
    }
    .btn{
     color: rgb(255, 255, 255);
-    background-color: rgb(75, 75, 75);
-    border: 5px solid rgb(75, 75, 75);
+    background-color: rgb(226, 16, 16);
+    border: 5px solid rgb(226, 16, 16);
     padding: .35rem 1rem .25rem 1rem;
     font-size: 1rem;
    }
@@ -27,7 +27,7 @@ body {
    }
    .btn-primary {
     color: #fff;
-    background-color: rgb(74, 9, 80);
+    background-color: rgb(43, 12, 12);
     width: 100%;
     padding: .75rem;
     font-size: 1.3rem;
@@ -41,7 +41,7 @@ body {
     color: #000;
     outline: none;
     border: #000 solid 2px;
-    background-color: #d7ecff;
+    background-color: #dfdc14;
    }
    .btn-primary:active {
     background-color: #212020;
